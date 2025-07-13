@@ -1,0 +1,7 @@
+#bloco1:hover {
+    transform: scale(1.15);
+}
+
+#bloco2:hover {
+    transform: translateY(10px) translateX(10px);
+}
