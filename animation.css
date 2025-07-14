@@ -5,3 +5,12 @@
 #bloco2:hover {
     transform: translateY(10px) translateX(10px);
 }
+
+#bloco3:hover {
+    transform: rotate3d(0, 1, 0, 180deg);
+}
+
+#bloco4:hover {
+    opacity: 0;
+}
+
